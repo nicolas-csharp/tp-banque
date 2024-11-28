@@ -1,0 +1,11 @@
+C:\Nicolas\dev\csharp\MaBanque\MaBanque\bin\Debug\MaBanque.exe.config
+C:\Nicolas\dev\csharp\MaBanque\MaBanque\bin\Debug\MaBanque.exe
+C:\Nicolas\dev\csharp\MaBanque\MaBanque\bin\Debug\MaBanque.pdb
+C:\Nicolas\dev\csharp\MaBanque\MaBanque\obj\Debug\MaBanque.csproj.AssemblyReference.cache
+C:\Nicolas\dev\csharp\MaBanque\MaBanque\obj\Debug\MaBanque.ClientsForm.resources
+C:\Nicolas\dev\csharp\MaBanque\MaBanque\obj\Debug\MaBanque.ConnexionForm.resources
+C:\Nicolas\dev\csharp\MaBanque\MaBanque\obj\Debug\MaBanque.Properties.Resources.resources
+C:\Nicolas\dev\csharp\MaBanque\MaBanque\obj\Debug\MaBanque.csproj.GenerateResource.cache
+C:\Nicolas\dev\csharp\MaBanque\MaBanque\obj\Debug\MaBanque.csproj.CoreCompileInputs.cache
+C:\Nicolas\dev\csharp\MaBanque\MaBanque\obj\Debug\MaBanque.exe
+C:\Nicolas\dev\csharp\MaBanque\MaBanque\obj\Debug\MaBanque.pdb
