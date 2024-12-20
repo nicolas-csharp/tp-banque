@@ -1,0 +1,10 @@
+C:\Users\gaeta\source\repos\maBanque\maBanque\bin\Debug\maBanque.exe.config
+C:\Users\gaeta\source\repos\maBanque\maBanque\bin\Debug\maBanque.exe
+C:\Users\gaeta\source\repos\maBanque\maBanque\bin\Debug\maBanque.pdb
+C:\Users\gaeta\source\repos\maBanque\maBanque\obj\Debug\maBanque.csproj.AssemblyReference.cache
+C:\Users\gaeta\source\repos\maBanque\maBanque\obj\Debug\maBanque.Properties.Resources.resources
+C:\Users\gaeta\source\repos\maBanque\maBanque\obj\Debug\maBanque.csproj.GenerateResource.cache
+C:\Users\gaeta\source\repos\maBanque\maBanque\obj\Debug\maBanque.csproj.CoreCompileInputs.cache
+C:\Users\gaeta\source\repos\maBanque\maBanque\obj\Debug\maBanque.exe
+C:\Users\gaeta\source\repos\maBanque\maBanque\obj\Debug\maBanque.pdb
+C:\Users\gaeta\source\repos\maBanque\maBanque\obj\Debug\maBanque.Form1.resources
