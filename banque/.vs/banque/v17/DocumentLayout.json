@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Nicolas\\dev\\csharp\\banque\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27C95F97-8633-450E-B6F9-609654E2C7B7}|banque.csproj|C:\\Nicolas\\dev\\csharp\\banque\\comptesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C95F97-8633-450E-B6F9-609654E2C7B7}|banque.csproj|solutionrelative:comptesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C95F97-8633-450E-B6F9-609654E2C7B7}|banque.csproj|c:\\nicolas\\dev\\csharp\\banque\\comptesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27C95F97-8633-450E-B6F9-609654E2C7B7}|banque.csproj|solutionrelative:comptesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C95F97-8633-450E-B6F9-609654E2C7B7}|banque.csproj|C:\\Nicolas\\dev\\csharp\\banque\\compteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C95F97-8633-450E-B6F9-609654E2C7B7}|banque.csproj|solutionrelative:compteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C95F97-8633-450E-B6F9-609654E2C7B7}|banque.csproj|C:\\Nicolas\\dev\\csharp\\banque\\compteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27C95F97-8633-450E-B6F9-609654E2C7B7}|banque.csproj|solutionrelative:compteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C95F97-8633-450E-B6F9-609654E2C7B7}|banque.csproj|c:\\nicolas\\dev\\csharp\\banque\\updatesoldeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C95F97-8633-450E-B6F9-609654E2C7B7}|banque.csproj|solutionrelative:updatesoldeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C95F97-8633-450E-B6F9-609654E2C7B7}|banque.csproj|c:\\nicolas\\dev\\csharp\\banque\\updatesoldeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27C95F97-8633-450E-B6F9-609654E2C7B7}|banque.csproj|solutionrelative:updatesoldeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C95F97-8633-450E-B6F9-609654E2C7B7}|banque.csproj|C:\\Nicolas\\dev\\csharp\\banque\\clientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27C95F97-8633-450E-B6F9-609654E2C7B7}|banque.csproj|solutionrelative:clientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C95F97-8633-450E-B6F9-609654E2C7B7}|banque.csproj|C:\\Nicolas\\dev\\csharp\\banque\\connexionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C95F97-8633-450E-B6F9-609654E2C7B7}|banque.csproj|solutionrelative:connexionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C95F97-8633-450E-B6F9-609654E2C7B7}|banque.csproj|C:\\Nicolas\\dev\\csharp\\banque\\connexionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27C95F97-8633-450E-B6F9-609654E2C7B7}|banque.csproj|solutionrelative:connexionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateSoldeForm.cs",
+              "DocumentMoniker": "C:\\Nicolas\\dev\\csharp\\banque\\UpdateSoldeForm.cs",
+              "RelativeDocumentMoniker": "UpdateSoldeForm.cs",
+              "ToolTip": "C:\\Nicolas\\dev\\csharp\\banque\\UpdateSoldeForm.cs",
+              "RelativeToolTip": "UpdateSoldeForm.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwCMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T13:38:40.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateSoldeForm.cs [Design]",
+              "DocumentMoniker": "C:\\Nicolas\\dev\\csharp\\banque\\UpdateSoldeForm.cs",
+              "RelativeDocumentMoniker": "UpdateSoldeForm.cs",
+              "ToolTip": "C:\\Nicolas\\dev\\csharp\\banque\\UpdateSoldeForm.cs [Design]",
+              "RelativeToolTip": "UpdateSoldeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T13:38:03.531Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComptesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Nicolas\\dev\\csharp\\banque\\ComptesForm.cs",
+              "RelativeDocumentMoniker": "ComptesForm.cs",
+              "ToolTip": "C:\\Nicolas\\dev\\csharp\\banque\\ComptesForm.cs [Design]",
+              "RelativeToolTip": "ComptesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:22:33.633Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ComptesForm.cs",
+              "DocumentMoniker": "C:\\Nicolas\\dev\\csharp\\banque\\ComptesForm.cs",
+              "RelativeDocumentMoniker": "ComptesForm.cs",
+              "ToolTip": "C:\\Nicolas\\dev\\csharp\\banque\\ComptesForm.cs",
+              "RelativeToolTip": "ComptesForm.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvysAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:22:40.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompteForm.cs [Design]",
+              "DocumentMoniker": "C:\\Nicolas\\dev\\csharp\\banque\\CompteForm.cs",
+              "RelativeDocumentMoniker": "CompteForm.cs",
+              "ToolTip": "C:\\Nicolas\\dev\\csharp\\banque\\CompteForm.cs [Design]",
+              "RelativeToolTip": "CompteForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:37:22.771Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CompteForm.cs",
+              "DocumentMoniker": "C:\\Nicolas\\dev\\csharp\\banque\\CompteForm.cs",
+              "RelativeDocumentMoniker": "CompteForm.cs",
+              "ToolTip": "C:\\Nicolas\\dev\\csharp\\banque\\CompteForm.cs",
+              "RelativeToolTip": "CompteForm.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwCUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:37:25.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Nicolas\\dev\\csharp\\banque\\ClientsForm.cs",
+              "RelativeDocumentMoniker": "ClientsForm.cs",
+              "ToolTip": "C:\\Nicolas\\dev\\csharp\\banque\\ClientsForm.cs [Design]",
+              "RelativeToolTip": "ClientsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:44:10.703Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConnexionForm.cs",
+              "DocumentMoniker": "C:\\Nicolas\\dev\\csharp\\banque\\ConnexionForm.cs",
+              "RelativeDocumentMoniker": "ConnexionForm.cs",
+              "ToolTip": "C:\\Nicolas\\dev\\csharp\\banque\\ConnexionForm.cs",
+              "RelativeToolTip": "ConnexionForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:41:49.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConnexionForm.cs [Design]",
+              "DocumentMoniker": "C:\\Nicolas\\dev\\csharp\\banque\\ConnexionForm.cs",
+              "RelativeDocumentMoniker": "ConnexionForm.cs",
+              "ToolTip": "C:\\Nicolas\\dev\\csharp\\banque\\ConnexionForm.cs [Design]",
+              "RelativeToolTip": "ConnexionForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:41:48.416Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
